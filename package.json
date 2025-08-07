@@ -64,12 +64,12 @@
   "badges": [
     {
       "url": "https://img.shields.io/badge/version-1.0.0-brightgreen",
-      "href": "https://marketplace.visualstudio.com/items?itemName=your-publisher.vscode-forest-pro",
+      "href": "https://marketplace.visualstudio.com/items?itemName=akashbadole.vscode-forest-pro",
       "description": "Version"
     },
     {
       "url": "https://img.shields.io/badge/rating-5%E2%AD%90-yellow",
-      "href": "https://marketplace.visualstudio.com/items?itemName=your-publisher.vscode-forest-pro&ssr=false#review-details",
+      "href": "https://marketplace.visualstudio.com/items?itemName=akashbadole.vscode-forest-pro&ssr=false#review-details",
       "description": "Rating"
     }
   ]
