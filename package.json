@@ -2,7 +2,7 @@
     "name": "vscode-forest-pro",
     "displayName": "Coder - Professional Nature Theme for vscode",
     "description": "A professional nature-inspired VS Code theme with comprehensive syntax highlighting and terminal colors",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "akashbadole",
     "engines": {
         "vscode": "^1.74.0"
@@ -52,9 +52,7 @@
     "url": "https://github.com/akashsbadole/vscode-forest-pro/issues"
   },
   "homepage": "https://github.com/akashsbadole/vscode-forest-pro#readme",
-  // "sponsor": {
-  //   "url": "https://ko-fi.com/vscodeforestpro"
-  // },
+
   "icon": "icon.jpg",
   "galleryBanner": {
     "color": "#1e1e1e",
