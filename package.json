@@ -1,0 +1,76 @@
+{
+    "name": "vscode-forest-pro",
+    "displayName": "Coder - Professional Nature Theme for vscode",
+    "description": "A professional nature-inspired VS Code theme with comprehensive syntax highlighting and terminal colors",
+    "version": "0.1.0",
+    "publisher": "akashbadole",
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+  "license": "MIT",
+  "categories": ["Themes"],
+  "keywords": ["theme",
+    "dark theme",
+    "nature",
+    "forest",
+    "professional",
+    "premium",
+    "semantic highlighting",
+    "programming",
+    "javascript",
+    "typescript",
+    "python",
+    "rust",
+    "go",
+    "cpp"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nature Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green.json"
+      }
+    ]
+  },
+   "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish",
+    "test": "node ./test/runTest.js",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.22.0",
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akashsbadole/vscode-forest-pro"
+  },
+  "bugs": {
+    "url": "https://github.com/akashsbadole/vscode-forest-pro/issues"
+  },
+  "homepage": "https://github.com/akashsbadole/vscode-forest-pro#readme",
+  // "sponsor": {
+  //   "url": "https://ko-fi.com/vscodeforestpro"
+  // },
+  "icon": "icon.jpg",
+  "galleryBanner": {
+    "color": "#1e1e1e",
+    "theme": "dark"
+  },
+  "qna": "https://github.com/akashsbadole/vscode-forest-pro/discussions",
+  "badges": [
+    {
+      "url": "https://img.shields.io/badge/version-1.0.0-brightgreen",
+      "href": "https://marketplace.visualstudio.com/items?itemName=your-publisher.vscode-forest-pro",
+      "description": "Version"
+    },
+    {
+      "url": "https://img.shields.io/badge/rating-5%E2%AD%90-yellow",
+      "href": "https://marketplace.visualstudio.com/items?itemName=your-publisher.vscode-forest-pro&ssr=false#review-details",
+      "description": "Rating"
+    }
+  ]
+}

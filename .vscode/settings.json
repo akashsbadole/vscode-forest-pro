@@ -1,0 +1,40 @@
+{
+  "files.associations": {
+    "*.json": "jsonc"
+  },
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "themes/*.json"
+      ],
+      "url": "vscode://schemas/color-theme"
+    }
+  ],
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/*.vsix": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/*.vsix": true
+  },
+  "editor.rulers": [80, 120],
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 80,
+  "workbench.colorCustomizations": {
+    "[VSCode Forest Pro]": {
+      "editor.background": "#0D1B0F"
+    }
+  },
+  "recommendations": [
+    "ms-vscode.vscode-json",
+    "streetsidesoftware.code-spell-checker",
+    "esbenp.prettier-vscode"
+  ]
+}
