@@ -308,8 +308,8 @@ This theme is licensed under the [MIT License](LICENSE) - see the LICENSE file f
 
 ## 📞 Support
 
-- 📧 **Email**: support@VSCodeforestpro.com
-- 💬 **Discord**: [Join our community](https://discord.gg/VSCode-forest-pro)
+- 📧 **Email**: badoleakash@gmail.com
+<!-- - 💬 **Discord**: [Join our community](https://discord.gg/VSCode-forest-pro) -->
 - 🐛 **Issues**: [GitHub Issues](https://github.com/akashsbadole/vscode-forest-pro/issues)
 - 📖 **Documentation**: [Wiki](https://github.com/akashsbadole/vscode-forest-pro/wiki)
 
