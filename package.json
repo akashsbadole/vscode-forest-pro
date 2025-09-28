@@ -1,8 +1,8 @@
 {
     "name": "vscode-forest-pro",
-    "displayName": "Coder - Professional Nature Theme for vscode",
-    "description": "A professional nature-inspired VS Code theme with comprehensive syntax highlighting and terminal colors",
-    "version": "0.1.2",
+    "displayName": "VSCode Forest Pro - Professional Nature Theme",
+    "description": "An enterprise-grade VSCode theme with professional green, red, and complementary colors designed for optimal productivity and accessibility. Includes dark, light, and accessibility-enhanced variants with WCAG-compliant contrast ratios.",
+    "version": "0.1.5",
     "publisher": "akashbadole",
     "engines": {
         "vscode": "^1.74.0"
@@ -11,6 +11,7 @@
   "categories": ["Themes"],
   "keywords": ["theme",
     "dark theme",
+    "light theme",
     "nature",
     "forest",
     "professional",
@@ -22,13 +23,115 @@
     "python",
     "rust",
     "go",
-    "cpp"],
+    "cpp",
+    "accessibility",
+    "WCAG"],
   "contributes": {
     "themes": [
       {
-        "label": "Nature Theme",
+        "label": "VSCode Forest Pro - Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/forest-green.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Light",
+        "uiTheme": "vs",
+        "path": "./themes/forest-green-light.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Accessibility Enhanced",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-a11y.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Olive",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-olive.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-emerald.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Sea Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-sea.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Mint Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-mint.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Chartreuse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-chartreuse.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Kelly Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-kelly.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Spring Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-spring.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Dark Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-dark.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Pale Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-pale.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Jade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-jade.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Shamrock",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-shamrock.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Moss Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-moss.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Tea Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-tea.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Pine Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-pine.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Green Yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-yellow.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Hunter Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-hunter.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Sap Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-sap.json"
+      },
+      {
+        "label": "VSCode Forest Pro - Lawn Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-green-lawn.json"
       }
     ]
   },
