@@ -187,7 +187,7 @@
     }
   },
   "colors": {
-    "editor.background": "#06402B",
+    "editor.background": "#005032",
     "editor.foreground": "#E8F5E8",
     "editorLineNumber.foreground": "#4A5D4F",
     "editorLineNumber.activeForeground": "#2E5A33",
@@ -405,7 +405,7 @@
     "terminalOverviewRuler.cursorForeground": "#2E5A33",
     "terminalOverviewRuler.findMatchForeground": "#0F3D0F",
     
-    "scrollbar.shadow": "#06402B70",
+    "scrollbar.shadow": "#045f3d70",
     "scrollbarSlider.background": "#4A5D4F60",
     "scrollbarSlider.activeBackground": "#2E5A3380",
     "scrollbarSlider.hoverBackground": "#2E5A3360",
@@ -518,7 +518,7 @@
     "focusBorder": "#2E5A33",
     "foreground": "#E8F5E8",
     "disabledForeground": "#4A5D4F",
-    "widget.shadow": "#06402B50",
+    "widget.shadow": "#00503250",
     "selection.background": "#2E5A3340",
     "descriptionForeground": "#3A7143",
     "errorForeground": "#1B4D20",
@@ -2436,7 +2436,7 @@
     "foreground": "#E8F5E8",
     "border": "#4A5D4F",
     "bottomBorder": "#2E5A33",
-    "shadow": "#06402B50"
+    "shadow": "#00503250"
   },
   "toolbar": {
     "background": "#0F1E13",
@@ -2564,7 +2564,7 @@
     }
   },
   "scrollbar": {
-    "shadow": "#06402B70",
+    "shadow": "#00503270",
     "slider": {
       "background": "#4A5D4F60",
       "activeBackground": "#2E5A3380",
@@ -2679,7 +2679,7 @@
   "foreground": "#E8F5E8",
   "disabledForeground": "#4A5D4F",
   "widget": {
-    "shadow": "#06402B50"
+    "shadow": "#00503250"
   },
   "selection": {
     "background": "#2E5A3340"

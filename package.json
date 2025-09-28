@@ -2,7 +2,7 @@
     "name": "vscode-forest-pro",
     "displayName": "VSCode Forest Pro - Professional Nature Theme",
     "description": "An enterprise-grade VSCode theme with professional green, red, and complementary colors designed for optimal productivity and accessibility. Includes dark, light, and accessibility-enhanced variants with WCAG-compliant contrast ratios.",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "publisher": "akashbadole",
     "engines": {
         "vscode": "^1.74.0"
@@ -109,30 +109,10 @@
         "path": "./themes/forest-green-tea.json"
       },
       {
-        "label": "VSCode Forest Pro - Pine Green",
-        "uiTheme": "vs-dark",
-        "path": "./themes/forest-green-pine.json"
-      },
-      {
-        "label": "VSCode Forest Pro - Green Yellow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/forest-green-yellow.json"
-      },
-      {
         "label": "VSCode Forest Pro - Hunter Green",
         "uiTheme": "vs-dark",
         "path": "./themes/forest-green-hunter.json"
       },
-      {
-        "label": "VSCode Forest Pro - Sap Green",
-        "uiTheme": "vs-dark",
-        "path": "./themes/forest-green-sap.json"
-      },
-      {
-        "label": "VSCode Forest Pro - Lawn Green",
-        "uiTheme": "vs-dark",
-        "path": "./themes/forest-green-lawn.json"
-      }
     ]
   },
    "scripts": {
