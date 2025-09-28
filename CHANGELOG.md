@@ -17,7 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [1.0.0] - 2024-01-15
+## [1.0.0]
 
 ### 🎉 Initial Release
 
@@ -99,6 +99,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Compatibility**: Windows, macOS, Linux
 
 ---
+
+## [2.0.0] - 28-09-2025
+
+- I added some theme, like Green Hunter, Green Emerald etc
 
 ## Version Numbering
 

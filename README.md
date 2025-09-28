@@ -2,8 +2,10 @@
 
 > **Premium Professional Nature-Inspired VS Code Theme**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)](https://marketplace.visualstudio.com/items?itemName=akashbadole.VSCode-forest-pro)
-[![Downloads](https://img.shields.io/badge/downloads-1K+-blue)](https://marketplace.visualstudio.com/items?itemName=akashbadole.VSCode-forest-pro)
+[![Version](https://img.shields.io/badge/version-2.0.0-brightgreen)](https://marketplace.visualstudio.com/items?itemName=akashbadole.VSCode-forest-pro)
+
+<!-- [![Downloads](https://img.shields.io/badge/downloads-1K+-blue)](https://marketplace.visualstudio.com/items?itemName=akashbadole.VSCode-forest-pro) -->
+
 [![Rating](https://img.shields.io/badge/rating-5%E2%AD%90-yellow)](https://marketplace.visualstudio.com/items?itemName=akashbadole.VSCode-forest-pro)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
@@ -11,7 +13,7 @@ VSCode Forest Pro transforms your coding environment into a sophisticated, natur
 
 ## Share your suggestion
 
-- https://docs.google.com/forms/d/e/1FAIpQLSd4jS2XuGAUl0aw-ou0viisV6s_DD2Mm6RVjw7HbV-6ANtwSQ/viewform?usp=header
+- https://docs.google.com/forms/d/e/1FAIpQLSd4jS2XuGAUl0aw-ou0viisV6s_DD2Mm6RVjw7HbV-6ANtwSQ/viewform?usp=preview
 
 ## ✨ Key Features
 
