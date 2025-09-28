@@ -4,7 +4,7 @@
 
 [![Version](https://img.shields.io/badge/version-2.0.0-brightgreen)](https://marketplace.visualstudio.com/items?itemName=akashbadole.VSCode-forest-pro)
 
-<!-- [![Downloads](https://img.shields.io/badge/downloads-1K+-blue)](https://marketplace.visualstudio.com/items?itemName=akashbadole.VSCode-forest-pro) -->
+[![Downloads](https://img.shields.io/badge/downloads-100+-blue)](https://marketplace.visualstudio.com/items?itemName=akashbadole.VSCode-forest-pro)
 
 [![Rating](https://img.shields.io/badge/rating-5%E2%AD%90-yellow)](https://marketplace.visualstudio.com/items?itemName=akashbadole.VSCode-forest-pro)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
