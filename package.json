@@ -2,7 +2,7 @@
     "name": "vscode-forest-pro",
     "displayName": "VSCode Forest Pro - Professional Nature Theme",
     "description": "An enterprise-grade VSCode theme with professional green, red, and complementary colors designed for optimal productivity and accessibility. Includes dark, light, and accessibility-enhanced variants with WCAG-compliant contrast ratios.",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "publisher": "akashbadole",
     "engines": {
         "vscode": "^1.74.0"

@@ -19,7 +19,8 @@ VSCode Forest Pro transforms your coding environment into a sophisticated, natur
 
 ### 🎨 **Premium Visual Design**
 
-- **Ultra-dark background** (`#0D1B0F`) - Reduces eye strain during long coding sessions
+- **Ultra-dark background** (`#0A1F15`) - Reduces eye strain during long coding sessions
+- **Enhanced function visibility** (`#7FDB81`) - Bright green for improved readability
 - **Neon nature accents** - Vibrant greens, golden highlights, sky blues
 - **7:1+ contrast ratios** - Professional accessibility standards
 - **Smooth gradients & glows** - Modern, premium aesthetic
@@ -111,10 +112,11 @@ VSCode Forest Pro transforms your coding environment into a sophisticated, natur
 4. Select the downloaded file
 5. Reload VS Code
 6. Activate the theme
+<!--
 
 ### Method 3: Development Setup
 
-```bash
+````bash
 # Clone the repository
 git clone https://github.com/akashsbadole/vscode-forest-pro.git
 cd VSCode-forest-pro
@@ -127,34 +129,24 @@ vsce package
 
 # Install locally
 code --install-extension VSCode-forest-pro-*.vsix
-```
+``` -->
 
-## 🌟 Screenshots
+<!-- ## 🌟 Screenshots
 
-<!-- ### JavaScript/TypeScript
+### JavaScript/TypeScript
 
 ![JavaScript Screenshot](./screenshots/javascript.png)
-_Advanced syntax highlighting with semantic tokens_
+_Advanced syntax highlighting with enhanced function visibility_ -->
 
-### Python
+<!-- ### Python
 
 ![Python Screenshot](./screenshots/python.png)
-_Decorators, magic methods, and type hints_
+_Decorators, magic methods, and type hints with improved readability_
 
-### Rust
+### Dark Theme
 
-![Rust Screenshot](./screenshots/rust.png)
-_Lifetimes, ownership, and macro highlighting_ -->
-
-### Terminal
-
-![Terminal Screenshot](./screenshots/terminal.png)
-_16-color ANSI palette with nature theme_
-
-### UI Overview
-
-![UI Screenshot](./screenshots/ui-overview.png)
-_Complete interface theming_
+![Dark Theme Screenshot](./screenshots/dark-theme.png)
+_Enhanced dark theme with brighter function colors_ -->
 
 ## ⚙️ Recommended Settings
 
@@ -203,8 +195,9 @@ Add these to your VS Code `settings.json` for the optimal experience:
 
 | Color                                                    | Hex       | Usage         |
 | -------------------------------------------------------- | --------- | ------------- |
-| ![#0D1B0F](https://via.placeholder.com/20/0D1B0F/0D1B0F) | `#0D1B0F` | Background    |
+| ![#0A1F15](https://via.placeholder.com/20/0A1F15/0A1F15) | `#0A1F15` | Background    |
 | ![#E8F5E8](https://via.placeholder.com/20/E8F5E8/E8F5E8) | `#E8F5E8` | Foreground    |
+| ![#7FDB81](https://via.placeholder.com/20/7FDB81/7FDB81) | `#7FDB81` | Functions     |
 | ![#7ED321](https://via.placeholder.com/20/7ED321/7ED321) | `#7ED321` | Primary Green |
 | ![#F5A623](https://via.placeholder.com/20/F5A623/F5A623) | `#F5A623` | Golden Orange |
 | ![#4A90E2](https://via.placeholder.com/20/4A90E2/4A90E2) | `#4A90E2` | Sky Blue      |
@@ -229,15 +222,16 @@ Add to your `settings.json`:
 {
   "workbench.colorCustomizations": {
     "[VSCode Forest Pro]": {
-      "editor.background": "#0A1A0D",
-      "editor.foreground": "#F0F8F0"
+      "editor.background": "#0A1F15",
+      "editor.foreground": "#E8F5E8"
       // Add more customizations...
     }
   },
   "editor.tokenColorCustomizations": {
     "[VSCode Forest Pro]": {
       "comments": "#6B8E73",
-      "strings": "#40D3B2"
+      "strings": "#40D3B2",
+      "functions": "#7FDB81"
       // Add more token customizations...
     }
   }
@@ -253,7 +247,15 @@ Add to your `settings.json`:
 
 ## 🔄 Changelog
 
-### Version 1.0.0 (2024-01-15)
+### Version 2.0.0
+
+- 🎉 Enhanced dark theme with improved function visibility
+- ✨ Updated function colors to brighter greens for better readability
+- 🎨 Darker editor background (#0A1F15) for improved contrast
+- 🖥️ Enhanced terminal color palette
+- 🔧 Improved UI component styling
+
+### Version 1.0.0
 
 - 🎉 Initial release
 - ✨ Premium semantic highlighting for 15+ languages
@@ -268,38 +270,8 @@ Add to your `settings.json`:
 We welcome contributions! Here's how you can help:
 
 ### Reporting Issues
+https://docs.google.com/forms/d/e/1FAIpQLSd4jS2XuGAUl0aw-ou0viisV6s_DD2Mm6RVjw7HbV-6ANtwSQ/viewform?usp=preview
 
-1. Check [existing issues](https://github.com/akashsbadole/vscode-forest-pro/issues)
-2. Create a [new issue](https://github.com/akashsbadole/vscode-forest-pro/issues/new) with:
-   - VS Code version
-   - Screenshot (if visual issue)
-   - Steps to reproduce
-
-### Submitting Changes
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Make your changes
-4. Test thoroughly
-5. Commit: `git commit -m 'Add amazing feature'`
-6. Push: `git push origin feature/amazing-feature`
-7. Open a Pull Request
-
-### Development Setup
-
-```bash
-# Install dependencies
-npm install
-
-# Start development mode
-npm run dev
-
-# Run tests
-npm test
-
-# Build for production
-npm run build
-```
 
 ## 📄 License
 
@@ -314,7 +286,7 @@ This theme is licensed under the [MIT License](LICENSE) - see the LICENSE file f
 
 ## 📞 Support
 
-- 📧 **Email**: badoleakash@gmail.com
+- 📧 **Email**: skywebsitedev@gmail.com
 <!-- - 💬 **Discord**: [Join our community](https://discord.gg/VSCode-forest-pro) -->
 - 🐛 **Issues**: [GitHub Issues](https://github.com/akashsbadole/vscode-forest-pro/issues)
 - 📖 **Documentation**: [Wiki](https://github.com/akashsbadole/vscode-forest-pro/wiki)
@@ -329,11 +301,4 @@ If you love VSCode Forest Pro, please:
 <!-- - ☕ **Buy us a coffee** on [Ko-fi](https://ko-fi.com/VSCodeforestpro) -->
 
 ---
-
-<div align="center">
-
-**Made with 💚 for developers who care about their coding environment**
-
-<!-- [Website](https://VSCodeforestpro.com) • [Twitter](https://twitter.com/VSCodeforestpro) • [GitHub](https://github.com/akashsbadole/vscode-forest-pro) -->
-
-</div>
+````
